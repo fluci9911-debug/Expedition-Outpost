@@ -12,6 +12,10 @@ A 3D-printable 3-story miniature outpost with a rooftop camping tent and street 
 - **Printables:** [expedition-outpost](https://www.printables.com/model/1930053-expedition-outpost) 
 - **Hackatime:** [expedition outpost](https://hackatime.hackclub.com/?project=expedition+outpost) (**7h 47m 56s** total across 7 sessions)
 - **Lapse:** *([fluci lapse](https://lapse.hackclub.com/user/@fluci))*
+> ⚠️
+> **Time & Verification Disclaimer:**
+> - **Lapse (Video Timelapses):** `7h 47m 56s` across 7 recorded Blender modeling sessions, But in hacative its showing wrong!!
+> - **Total Combined Time:** `~10h 32m` when including the additional Hackatime/documentation, render setup, and STL prep time (`~2.47h` outside the Lapse recordings).
 
 ![Expedition Outpost Hero Render](./journal_media/image_1.png)
 
