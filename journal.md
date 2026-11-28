@@ -28,15 +28,11 @@ Halfway through the build, a normal orange house felt too plain, so I made a moo
 ![Lookout Session Tracking](./journal_media/image_2.png)
 
 
-### Halo,
-Here's an overview of my project: it started out as a cozy stylish orange home I found while browsing Pintereest, but halfway through I thought, why not turn this into an expedition outpost? although i never thought ai can generate this much great reference thanks to google lol,
 ## Models Overview
 
-Basically, it's a 3-story building that you can live in and camp out on top of. It's packed with a rooftop camping tent, wooden shipping baxed, campfire logs , dafety railings. and a Walking window (an arched window styled that, when you look closely, looks like it has littlw legs and carries compasses for the directions which is at its lap :).
 hellos here's an overview of this really cooler than the Alaska outpost , it's a damn cozy and stylish outpost which started off with a Pinterest inspo to be exact which I found while in search of something where I can practice more and improve my skill , That being said halfway through I didn't want it to be a Random Generic model so I used the help of AI.
 
-Although i would try to cover everything as i can i would like to say i am not writing all the things 1 by one its just a journal which covers all the things i made and the huddles i faced while making the 3d model.
-Halfway through I used the magic wand (which is the free AI model). I wanted to give the home really cool outdoor camp vibes (credit- inspired by new survive ysws tbh), so at the end we got (**Style B: Expedition Outpost**) and midway we got a new mission to turn THIS INTO EXPEDITION OUTPOST.
+Halfway through I used the magic wand (which is the free AI model). I wanted to give the home really cool outdoor camp vibes (credit- inspired by [new survive ysws](https://survive.hackclub.com/) tbh), so at the end we got (**Style B: Expedition Outpost**) and midway we got a new mission to turn THIS INTO EXPEDITION OUTPOST.
 
 Basically, it's a 3-story building that you can live in and camp out on top of. It's packed with a rooftop camping tent, wooden shipping boxes, campfire logs, safety railings, and a Walking Window, the nose of the outpost.
 
