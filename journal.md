@@ -1,24 +1,32 @@
+---
+title: "Expedition Outpost"
+description: " A 3d printable miniature of a really cool outpost"
+started_at: "17th of November"
+---
+
 # Expedition Outpost
 
-A 3D-printable miniature of a really coolish outpost, model made for **[Hack Club Embassy](https://embassy.hackclub.com)**.
+## How It Started vs How It's Going
 
-[![Journal](https://img.shields.io/badge/Journal-journal.md-orange.svg)](./journal.md)
-[![Guide](https://img.shields.io/badge/Guide-GUIDE.md-blue.svg)](./GUIDE.md)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
-[![Printables](https://img.shields.io/badge/Printables-Model-orange)](https://www.printables.com/model/1930053-expedition-outpost)
-[![Time](https://img.shields.io/badge/Time-7h%2047m%2056s-brightgreen.svg)](https://hackatime.hackclub.com/?project=expedition+outpost)
-[![Status](<https://img.shields.io/badge/Status-v1%20Complete%20(Printable)-brightgreen.svg>)](#suggested-print-settings)
+Halfway through the build, a normal orange house felt too plain, so I made a moodboard (**Style B: Expedition Outpost**) and switched to camping gear and weird outpost props.
 
+| Starting Inspiration (Pinterest) | Theme Reference (Expedition Pivot) |
+| :---: | :---: |
+| ![Orange Home Reference](./journal_media/inspo_starting_orange_home.png) | ![Expedition Outpost Reference](./journal_media/inspo_expedition_outpost.png) |
+| *Original cozy orange house idea* | * Inspo for the camp roof & props* |
+
+---
+
+![Expedition Outpost](./journal_media/image_1.png)
+
+- **Hackatime:** [Expedition Outpost](https://hackatime.hackclub.com/?project=expedition+outpost)
 - **Printables:** [expedition-outpost](https://www.printables.com/model/1930053-expedition-outpost)
-- **Hackatime:** [expedition outpost](https://hackatime.hackclub.com/?project=expedition+outpost) (**7h 47m 56s** total across 7 sessions)
-- **Lapse:** _([fluci lapse](https://lapse.hackclub.com/user/@fluci))_
+### Lapse: [Lapse 1](https://lapse.hackclub.com/timelapse/5gMjeaySzRgU) • [Lapse 2](https://lapse.hackclub.com/timelapse/waWgyWxghDyp) • [Lapse 3](https://lapse.hackclub.com/timelapse/YOqTFVAYcSKX) • [Lapse 4](https://lapse.hackclub.com/timelapse/JsHzHuTzYA3Y) • [Lapse 5](https://lapse.hackclub.com/timelapse/j7US5kIwX10x) • [Lapse 6](https://lapse.hackclub.com/timelapse/i70DBfXLXbXC) • [Lapse 7](https://lapse.hackclub.com/timelapse/1aij_S8ncqzF)
+- **Active Modeling Time:** **7h 47m 56s** <mark>with 7 lapse/lookout sessions </mark>
+- **Printables STL:** [`production/expedition_outpost_printable.stl`](production/expedition_outpost_printable.stl)
 
-> **Time & Verification Note:**
->
-> - **Lapse (Video Timelapses):** `7h 47m 56s` across 7 recorded Blender modeling sessions, but in Hackatime the lapse time is showing wrong!!
-> - **Total Combined Time:** `~10h 32m` when including the additional Hackatime/documentation (`~2h 44m` outside the journal, README, etc.).
+![Lookout Session Tracking](./journal_media/image_2.png)
 
-![Expedition Outpost Hero Render](./journal_media/image_1.png)
 
 ## Models Overview
 
@@ -40,7 +48,7 @@ Across its three floors, here is what's on the outpost:
   - Divider belts between each section of the home
   - 7-sided hollow sleek windows
   - 2 balconies on the left side with their safety grills
-  - **Walking Window** (placed right below at the center — arched window with cross bars, a lap/little bib below in the middle, and little legs)
+  - **Walking Window** (placed right below at the center; arched window with cross bars, a lap/little bib below in the middle, and little legs)
   - Clocks / compasses
   - That other knife-cut thingy (`idk what it is? tho`)
 - **Third Floor & Roof:**
@@ -48,97 +56,187 @@ Across its three floors, here is what's on the outpost:
   - Rooftop multi window room
   - Rooftop camping tent with triangular tent gates/doors
 
-|                        Starting Idea (Pinterest)                         |                 Theme Reference (Expedition Outpost)                 |
-| :----------------------------------------------------------------------: | :------------------------------------------------------------------: |
-| ![Orange Home Reference](./journal_media/inspo_starting_orange_home.png) | ![Expedition Outpost ](./journal_media/inspo_expedition_outpost.png) |
+Although i would try to cover everything as i can i would like to say i am not writing all the things 1 by one its just a journal which covers all the things i made and the hurdles i faced while making the 3d model.
 
-## Why I Made This
+Here is the build log broken down into 7 sessions:
 
-After completing the old devil home one, I wanted to expand the miniature town with a taller, multi-story building that actually felt cool and stood out, and also broaden my skills. Starting from a normal Pinterest image made it easy to block out the three floors and windows, and moving halfway into an expedition outpost gave me an excuse to use more tools and give it a real vibe, and this led to the birth of Expedition Outpost.
-
-## Files in This Repo
-
-- `src/orange home.blend` — main 3-story building Blender scene
-- `src/otherassets.blend` — Walking Window, compasses, crates, campfire logs & dustbin
-- `src/Tent.blend` — rooftop camping tent model
-- `production/expedition_outpost_printable.stl` — print-ready STL (`10.7 × 11.2 × 16.3 cm`)
-- `GUIDE.md` — setup, slicer settings & painting walkthrough
-- `journal.md` — full 7-session modeling log and hurdles
-- `BOM.csv` — filament weight and cost breakdown
-
-```text
-├── src/
-│   ├── orange home.blend                 # main 3-story building scene
-│   ├── otherassets.blend                 # crates, logs, compasses, walking window
-│   └── Tent.blend                        # rooftop camping tent model
-├── production/
-│   └── expedition_outpost_printable.stl  # 16.3 cm 3D-printable STL
-├── renders/                              # Workbench renders
-├── journal_media/                        # progress screenshots & references
-├── GUIDE.md                              # setup, slicing & printing guide
-├── journal.md                            # complete 7-phase build diary
-├── BOM.csv                               # materials cost list
-├── AI_USAGE.md                           # AI disclosure statement
-├── README.md                             # project overview
-└── LICENSE                               # MIT License
-```
-
-## Modeling (CAD)
-
-Modeled in Blender across **7 sessions (7h 47m 56s total)** tracked in Lookout/Lapse, ending up with **over 185 individual mesh pieces/sub-parts that make up the 1 outpost model**.
-
-Here's a quick overview of what happened in each phase. For more detailed info there is always [`journal.md`](./journal.md):
-
-| Phase                                                                                     |  Time  | What I Made & How                                                                                                                                                                                                                                                                                                                   |
-| :---------------------------------------------------------------------------------------- | :----: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Phase 1** · [`orange home`](https://lapse.hackclub.com/timelapse/5gMjeaySzRgU)          | 1h 04m | Made the ground plane, 3 main floors, and the roof room using `I` and `E`. Separated the roof windows with loop cuts + `P` (1 side first, then 3 at once), framed the bottom entrance, and carved the front windows with `Add Cube`.                                                                                                |
-| **Phase 2** · [`worked for the door`](https://lapse.hackclub.com/timelapse/waWgyWxghDyp)  |  48m   | Made the thingy below the windows (`Add Cube`) and worked on the front home gates using the same technique as the side windows, with more things layered in — easy peasy!                                                                                                                                                           |
-| **Phase 3** · [`almost complete`](https://lapse.hackclub.com/timelapse/YOqTFVAYcSKX)      | 1h 31m | Added the front doors and the other few things in the front, wrapped and cloned the floor belts (`Shift + D` + `Bridge Edge Loops`), made and duplicated the 7-sided cylinder windows (_didn't take much time_), made the 2 left-side balconies (loop cut + extrude), and copied the side-wall windows with center bars one by one. |
-| **Phase 4** · [`almost all assets`](https://lapse.hackclub.com/timelapse/JsHzHuTzYA3Y)    | 1h 30m | Made the **Walking Window** (`Spin`, `Bridge Edge Loops`, `Add Cube` cross, lap & legs, _turned out kinda nice!!!_); after completing that, I worked on the other assets like the tilted dustbin, chimney with grill, clocks/compasses, that knife-cut thingy (_idk what it is? tho_), and the outpost eyes.                        |
-| **Phase 5** · [`other assets`](https://lapse.hackclub.com/timelapse/j7US5kIwX10x)         |  30m   | Made the wooden boxes in front of the home with hollow groove lines (`Alt + E`) and stacked campfire firewood logs outside.                                                                                                                                                                                                         |
-| **Phase 6** · [`more refining needed`](https://lapse.hackclub.com/timelapse/i70DBfXLXbXC) | 1h 54m | Put all the props onto the outpost and hit **my biggest hurdle** while making the rooftop tent: `Simple Deform` Bend kept messing up the tent sides, so I separated each side with `P`, bent them cleanly, and joined them back. Finally, I cut the triangle tent gates with `K` and placed the tent on the roof.                   |
-| **Phase 7** · [`see`](https://lapse.hackclub.com/timelapse/1aij_S8ncqzF)                  |  24m   | Made the balcony grills and aligned them onto the balconies.                                                                                                                                                                                                                                                                        |
-
-![Full Scene Assembly](./journal_media/phase7_full_assembly.png)
-
-Full step-by-step build log and screenshots: [`journal.md`](./journal.md)
-
-|                 Solid Random Components                 |          Colorless Architectural White          |
-| :-----------------------------------------------------: | :---------------------------------------------: |
-| ![Random Components Hero](./journal_media/image_18.png) | ![Colorless Hero](./journal_media/image_19.png) |
-
-## 3D Printing
-
-All 3 `.blend` files were joined into one printable file, [`production/expedition_outpost_printable.stl`](./production/expedition_outpost_printable.stl), with a flat bottom so it sits level on the print bed (AI helped clean up the STL and renders, see [`AI_USAGE.md`](./AI_USAGE.md)). I don't own a 3D printer yet, so I haven't printed it in real life; the size and filament numbers below come from checking the STL in a slicer.
-
-### Suggested Print Settings
-
-![studio](image.png)
-
-Full setup, slicing, and finishing steps are in [`GUIDE.md`](./GUIDE.md):
-
-- **Size:** `16.3 cm` tall (`107.2 × 112.1 × 163.3 mm` / `10.7 × 11.2 × 16.3 cm`) — keep at 100% scale so thin window bars and slats stay above a `0.4 mm` nozzle width
-- **Layer height:** `0.20 mm` (or `0.16 mm` for sharper details)
-- **Walls / Perimeters:** `3 walls`
-- **Infill:** `15% Gyroid`
-- **Supports:** Tree / Organic supports (needed under the front overhang and balcony overhang)
-- **Estimated time:** `~10–12 hours`
-
-## Parts & Cost
-
-Estimated material cost using Numakers India PLA+ filament at ₹600/kg (**~323 g** for the model + **~22 g** for tree supports = **~345 g** total, or **$2.24 USD / ₹207**). Modeled in Blender and checked for slicing in Bambu Studio (both free).
-
-Source file: [`BOM.csv`](./BOM.csv)
-
-| Item                              | Quantity                     | Price                | Link to Buy                                                       |
-| :-------------------------------- | :--------------------------- | :------------------- | :---------------------------------------------------------------- |
-| PLA+ Filament (Outpost Model)     | ~323g                        | $2.10 (₹194)         | [Numakers PLA+](https://india.numakers.com/products/pla-filament) |
-| PLA+ Filament (Tree Supports)     | ~22g                         | $0.14 (₹13)          | [Numakers PLA+](https://india.numakers.com/products/pla-filament) |
-| **Total Estimated Material Cost** | **16.3cm Miniature (~345g)** | **$2.24 USD (₹207)** | _Estimated raw filament (15% Gyroid + supports)_                  |
+| Session | Lapse / Lookout Title | Date | Time | What Was Made |
+| :---: | :--- | :---: | :---: | :--- |
+| **1** | `orange home` | Nov 17 | **1h 04m** | • Ground base plane<br>• `I` (Inset) + 3-floor extrusions<br>• Top-floor windowed room (`P` separate + loop cuts: 1 side tested, then 3 at once)<br>• Normal window structure & bottom entrance framing<br>• Sliced front gate wall & carved matching window cubes |
+| **2** | `worked for the door` | Nov 17 | **48m** | • The thingy below the windows (`Add Cube`)<br>• Front home gates (made with the same technique as the side windows, with more things layered into it) |
+| **3** | `almost complete` | Nov 17 | **1h 31m** | • Front doors & the other few things in the front<br>• Floor divider belts (`Shift + D` + `Bridge Edge Loops`, cloned up between floors)<br>• 7-sided cylinder windows (`P` + extrude/intrude + duplicated)<br>• 2 left-side balconies (loop cut + extrude)<br>• Side-wall windows with center bars (copied one-by-one for exact size) |
+| **4** | `almost all assets` | Nov 17 | **1h 30m** | • **Walking Window** (2 blocks + `Spin` + `Bridge Edge Loops` arch, back plane, `Add Cube` cross, extruded lap & little legs)<br>• **Dustbin** (feet + 45° tilted top + extruded front & small thingy at slanted side)<br>• **Chimney** (cylinder cutout + top grill)<br>• **Clocks / Compasses**, Knife-cut thingy (`idk what it is? tho`) & **Eyes of the outpost** |
+| **5** | `other assets` | Nov 18 | **30m** | • Wooden boxes with hollow groove lines (`Alt + E`)<br>• Stacked campfire firewood logs<br>• Early explorer backpack draft *(saved for v2)* |
+| **6** | `more refining needed` | Nov 19 | **1h 54m** | • Attached all props onto the outpost (eyes, Walking Window + lil bib, clocks, the other something idk, dustbins, chimneys, boxes, firewood logs)<br>• **Rooftop Tent** (separated each side with `P`, bent cleanly via `Simple Deform` Bend & joined)<br>• Triangular tent gates/doors cut with Knife tool (`K`), duplicated & placed on roof |
+| **7** | `see` | Nov 20 | **24m** | • Modeled and aligned safety grills onto the balconies<br>• Completed final 185+ part outpost assembly |
+| **Total** | | | **7h 47m 56s** | **Over 185 individual mesh pieces/sub-parts that make up the 1 outpost model** |
 
 ---
 
-arigatō gozaimasu 🙇
-Thanks for reading this/////
+## The Build Log
 
-Made for [Hack Club Embassy](https://embassy.hackclub.com) using Blender · Licensed under [MIT](./LICENSE).
+### Phase 1: Making the base, 3 parts & window experiments (`orange home`, 1h 04m)
+### Lapse: [Lapse 1](https://lapse.hackclub.com/timelapse/5gMjeaySzRgU)
+
+Here is the original Pinterest image that lead the whole journey:
+
+![The Original Pinterest Inspo](./journal_media/inspo_starting_orange_home.png)
+
+1. Started off by making the plane where the structure was sitting.
+        ![The Ground Base](./journal_media/image_3.png)
+
+2. Then I used the **I tool** (inset), and as per the size of the home, I carved out the base and did the extrusions till i reached the desired size.
+![Insetting and blocking the base footprint](./journal_media/phase1_base_inset.png)
+
+3. Also a thing was that I extruded and stopped right where I thought the base portion gate and window should be, Similarly, I made 3 parts/floors with the help of it.
+
+4. Usint the same technique of insetting and extruding, I made the most windowed room of the structucture. at the most up floor , Then using the same loop cuts and the ** P tool **
+( which helps in seperating the faces / objects) firstly i tried with the one size of the four And i thought:*will it work as per I thought?* And it worked!
+![Top-floor window separation experiment on one side](./journal_media/phase1_top_window_test.png)
+
+5. Then I replicated teh same thing with selecting all the other faces but now all 3 of them at once,first separating and hen using the same steps of loop cutting, insetting . and extruding the face , trying to replicate the same sizes as earlier experiment. At last, I made the normal window structure and framed the bottom entrance. 
+![Separating the remaining three top-floor window faces at once](./journal_media/phase1_top_windows_separated.png)
+
+6. At last i used the loop cut or slicing tool may be to seperate the portion of the front gate side in half and then i used the add cube tool to match the same size as the window and then i took that cubes of windows and carved out it as similar to a window as it should be 
+![window additon](./journal_media/image_5.png)
+
+![Cutting and framing the bottom entrance structure](./journal_media/image_6.png)
+
+
+
+---
+
+### Phase 2: The windows & the home gates (`worked for the door`, 48m)
+### Lapse: [Lapse 2](https://lapse.hackclub.com/timelapse/waWgyWxghDyp)
+1. Started by making the thingy which are below the window using the add cube tool
+![below window](./journal_media/image-18.png)
+
+2. Then I worked on the home gates. It wasn't as polished as in the image, but still it was made by the same technique via which the side windows are made, just with more things layered into it. So Session 2 was easy peasy!
+![Front Gate](./journal_media/image-19.png)
+
+---
+
+
+### Phase 3: Belt of the home, balcony & cylinder windows (`almost complete`, 1h 31m)
+### Lapse: [Lapse 3](https://lapse.hackclub.com/timelapse/YOqTFVAYcSKX)
+
+1. For the phase 3 i started by adding the doors and the other few things in the front.
+
+![front complete](./journal_media/image.png)
+
+2. then added the cube to make the belt which are between each section of the home , using the shift d and few adjustments around the corner and using the bridge edge loops i made the some what similar belt around it, then selecting and cloning the belt i moved it up between other sections.
+![Belt complition](./journal_media/image-1.png)
+
+3. After than i moved to make those special 7 sides windows 
+i kinda knew what to do in this one so didnt took that, much time used the cylinder , reduced the sides to 7 , then like used the p section tool and then used the extrusion entrusion to make that hollow sleek style of the windows and ,,, Volla completed the window 
+
+![window](./journal_media/image-2.png)
+
+and then duplicated it to other sides to make it perfect !!!
+
+
+
+4. Then moved forward to make those balcony on the left side of the home using some loop cut and extrusion our 2 balconies were ready
+                    ![balcony](./journal_media/image-4.png)
+
+5. At last moved on to make the windows of the side wall used the i tool to make the same size of the side as indow then used the carving extrusion and intrusion to give it the shape of thte window then added the window lines middle one ,
+After than i tried to do the all other 3 sides as once but it was not working out so i did one by one using entusinon and etc also i copied the whole window previeously made to match the extact size ....
+![This is how its turned out](./journal_media/image-5.png)
+
+---
+
+### Phase 4: Worked ont the walking window ( its compass and other asets), chimneys and the outpost eyes and etc(`almost all assets`, 1h 30m)
+### Lapse: [Lapse 4](https://lapse.hackclub.com/timelapse/JsHzHuTzYA3Y)
+
+
+**Walking Window**
+
+1. starded of by laying 2 blocks for the upper curved part of the window and used the spin tool to make a wole curved portion off it at end to join the blocks i used the bridge edge loops.
+           ![curved portion](./journal_media/image-6.png)
+
+2. Then worked one selecting the end faces of the blocks and extruding it , Till the desired size . and then worked ont the adding the plane to its back , And then adding the cross using the add cube tools. 
+          ![window with cross](./journal_media/image-7.png)
+
+3. Then used the plane to make the lap for the window and then extruded it to the desired with and then extruded it with the last edge side of it , and several other steps then worked on adding the legs of the window at last it turned out too be kinda nice!!!
+        ![full wind](./journal_media/image-9.png)
+
+**The Dustbin&chimney**
+
+1. Worked on creating the dusbin firstly used the as always square to make it lil bit rectangular then addedd the feets of the dustbin and tilted the upperportion of the dustbin to 45 degrees and extruded int he front portion and at last added the small thingy at the slanded side of it .
+
+    ![dustbin](./journal_media/image-10.png)
+
+2. For the chimney added the desired shaped square similar to the chimney and then added the cylinded to do deletion of 
+desired shape in the sqare and then added the chimney grill at end .
+                                               ![chimney](./journal_media/image-11.png)
+
+
+**Clock/Eyes and other assets**
+
+1. Firstly, for the window leftovers.
+made the clock/compass looking object using the cylinder , and then carving out the desired shape and then adding the other cylinder as middle nossel and hten adding the stick thingy for the clock then similarly made the other ones too,
+then made the other thingy using the knife tool and extruding out the sides idk what it is ? tho
+                                                                                            ![Window assets](./journal_media/image-12.png)
+
+2. AT last, made the eyes for Our expedition outpost using the same steps as used in clock one almost..
+             ![eyes](./journal_media/image-13.png)
+
+
+### Phase 5: Slatted boxes & campfire logs (`other assets`, 30m)
+### Lapse: [Lapse 5](https://lapse.hackclub.com/timelapse/j7US5kIwX10x)
+
+1. **The boxes in front of the home:** Made the wooden boxes with hollow groove lines using **`Alt + E`** to push the slats inward while keeping the outer frame solid.
+![Wooden crates with hollow slats](./journal_media/image_12.png)
+
+2. **Campfire logs:** Worked on making a stack of firewood logs outside the home for camping out.
+![Slatted crates and stacked campfire logs](./journal_media/phase5_crates_logs.png)
+
+3. **The explorer bag:** Tried making the back pack too, but decided to save it for a future v2 update instead of rushing it here.
+
+---
+### Phase 6: Adding all the assets made previously in the outpost (`more refining needed`, 1h 54m)
+### Lapse: [Lapse 6](https://lapse.hackclub.com/timelapse/i70DBfXLXbXC)
+
+**All assets Joining/Attaching**
+
+1. Started of by adding adding the eyes to the right position of the outpost , After wards which worked on adding the walking window to the , Right center of the eyes and lil bib below to the middle portion. And then added the assets such as the clockes and the other something idk. Then worked on adding the other side dustbins and the chimneys each boxes and the firewood logs.
+![After attaching](./journal_media/image-14.png)
+
+2. After that my biggest huddle till this project , Worked on making the tent i firstly tried just making the tent flat but it would not match the reference then i used the simple bend tool . ** The biggest problem with that** 
+was when i am using the loop cut and then trying to bend the side one side is bending good but other ones are keep messing up For a quiet while i jargled with fixing it . 
+and suddenly its clicked why not us our p tool to sperate teh sides which we made and then after selecting the each side with the loops lines of it i detached them from each other and wheni bend the each side it was bending quite well . and tehn i just joint them .
+![tent](./journal_media/image-15.png)
+
+3. After which at last i worked on making the like gates of the tent i used the square plane , scaled it well and using the kife tooll i made it triange and after doing some tweaks to its shape i made teh gate of the tent and then duplicated it to other sides and rotated it well and then duplicated both to the other side of the tent . and Finally added it to the roof.
+![final ig](./journal_media/image-16.png)
+
+---
+
+### Phase 7: The final alignment (`see`, 24m)
+### Lapse: [Lapse 7](https://lapse.hackclub.com/timelapse/1aij_S8ncqzF)
+
+1. **Making and Positiong of the balcony grills:** Workend on the last lapse fot the making of the grills for thebalcony and aligning to the balconies.
+![grills](./journal_media/image-17.png)
+
+---
+
+## Links: BOM & AI Disclosure
+
+- **Bill of Materials:** [`BOM.csv`](./BOM.csv)
+- **AI Disclosure:** [`AI_USAGE.md`](./AI_USAGE.md)
+
+---
+
+## Final Render
+
+### Colourfull
+![Random Components Hero](./journal_media/image_18.png)
+![Master 4-Quadrant Board](./journal_media/image_20.png)
+
+### Colorless 
+![Colorless Hero](./journal_media/image_19.png)
+![Tight 4-Quadrant Colorless](./journal_media/image_21.png)
+
+----------------------------------------
+   arigatō gozaimasu🙇
+Thanks for reading this/////
