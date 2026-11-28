@@ -1,6 +1,6 @@
 # Expedition Outpost
 
-A 3D-printable miniature of a really coolish outpost, model made for **[Survive](https://survive.hackclub.com/)**.
+A 3D-printable miniature of a really coolish outpost, model made for **[Hack Club Embassy](https://embassy.hackclub.com)**.
 
 [![Journal](https://img.shields.io/badge/Journal-journal.md-orange.svg)](./journal.md)
 [![Guide](https://img.shields.io/badge/Guide-GUIDE.md-blue.svg)](./GUIDE.md)
@@ -141,4 +141,4 @@ Source file: [`BOM.csv`](./BOM.csv)
 arigatō gozaimasu 🙇
 Thanks for reading this/////
 
-Made for [Survive](https://survive.hackclub.com/) using Blender · Licensed under [MIT](./LICENSE).
+Made for [Hack Club Embassy](https://embassy.hackclub.com) using Blender · Licensed under [MIT](./LICENSE).
