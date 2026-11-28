@@ -1,6 +1,6 @@
 # Expedition Outpost
 
-A 3D-printable miniature of a really coolish outpost, modeled in Blender for **Hack Club Embassy**.
+A 3D-printable miniature of a really coolish outpost, modeled in Blender for **[Survive](https://survive.hackclub.com/)**.
 
 [![Journal](https://img.shields.io/badge/Journal-journal.md-orange.svg)](./journal.md)
 [![Guide](https://img.shields.io/badge/Guide-GUIDE.md-blue.svg)](./GUIDE.md)
@@ -24,7 +24,7 @@ A 3D-printable miniature of a really coolish outpost, modeled in Blender for **H
 
 hellos here's an overview of this really cooler than the Alaska outpost , it's a damn cozy and stylish outpost which started off with a Pinterest inspo to be exact which I found while in search of something where I can practice more and improve my skill , That being said halfway through I didn't want it to be a Random Generic model so I used the help of AI.
 
-Halfway through I used the magic wand (which is the free AI model). I wanted to give the home really cool outdoor camp vibes (credit- inspired by new survive ysws tbh), so at the end we got (**Style B: Expedition Outpost**) and midway we got a new mission to turn THIS INTO EXPEDITION OUTPOST.
+Halfway through I used the magic wand (which is the free AI model). I wanted to give the home really cool outdoor camp vibes (credit- inspired by [new survive ysws](https://survive.hackclub.com/) tbh), so at the end we got (**Style B: Expedition Outpost**) and midway we got a new mission to turn THIS INTO EXPEDITION OUTPOST.
 
 Basically, it's a 3-story building that you can live in and camp out on top of. It's packed with a rooftop camping tent, wooden shipping boxes, campfire logs, safety railings, and a Walking Window, the nose of the outpost.
 
@@ -141,4 +141,4 @@ Source file: [`BOM.csv`](./BOM.csv)
 arigatō gozaimasu 🙇
 Thanks for reading this/////
 
-Made for [Hack Club Embassy](https://embassy.hackclub.com) using Blender · Licensed under [MIT](./LICENSE).
+Made for [Survive](https://survive.hackclub.com/) using Blender · Licensed under [MIT](./LICENSE).
