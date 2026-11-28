@@ -3,6 +3,9 @@ title: "Expedition Outpost"
 description: " A 3d printable miniature of a really cool outpost"
 started_at: "17th of November"
 ---
+
+# Expedition Outpost
+
 ## How It Started vs How It's Going
 
 Halfway through the build, a normal orange house felt too plain, so I made a moodboard (**Style B: Expedition Outpost**) and switched to camping gear and weird outpost props.
@@ -13,12 +16,11 @@ Halfway through the build, a normal orange house felt too plain, so I made a moo
 | *Original cozy orange house idea* | * Inspo for the camp roof & props* |
 
 ---
-# Expedition Outpost 
 
 ![Expedition Outpost](./journal_media/image_1.png)
 
 - **Hackatime:** [Expedition Outpost](https://hackatime.hackclub.com/?project=expedition+outpost)
-- **Printables:** ()
+- **Printables:** [expedition-outpost](https://www.printables.com/model/1930053-expedition-outpost)
 ### Lapse: [Lapse 1](https://lapse.hackclub.com/timelapse/5gMjeaySzRgU) • [Lapse 2](https://lapse.hackclub.com/timelapse/waWgyWxghDyp) • [Lapse 3](https://lapse.hackclub.com/timelapse/YOqTFVAYcSKX) • [Lapse 4](https://lapse.hackclub.com/timelapse/JsHzHuTzYA3Y) • [Lapse 5](https://lapse.hackclub.com/timelapse/j7US5kIwX10x) • [Lapse 6](https://lapse.hackclub.com/timelapse/i70DBfXLXbXC) • [Lapse 7](https://lapse.hackclub.com/timelapse/1aij_S8ncqzF)
 - **Active Modeling Time:** **7h 47m 56s** <mark>with 7 lapse/lookout sessions </mark>
 - **Printables STL:** [`production/expedition_outpost_printable.stl`](production/expedition_outpost_printable.stl)
@@ -28,21 +30,48 @@ Halfway through the build, a normal orange house felt too plain, so I made a moo
 
 ### Halo,
 Here's an overview of my project: it started out as a cozy stylish orange home I found while browsing Pintereest, but halfway through I thought, why not turn this into an expedition outpost? although i never thought ai can generate this much great reference thanks to google lol,
+## Models Overview
 
 Basically, it's a 3-story building that you can live in and camp out on top of. It's packed with a rooftop camping tent, wooden shipping baxed, campfire logs , dafety railings. and a Walking window (an arched window styled that, when you look closely, looks like it has littlw legs and carries compasses for the directions which is at its lap :).
+hellos here's an overview of this really cooler than the Alaska outpost , it's a damn cozy and stylish outpost which started off with a Pinterest inspo to be exact which I found while in search of something where I can practice more and improve my skill , That being said halfway through I didn't want it to be a Random Generic model so I used the help of AI.
 
 Although i would try to cover everything as i can i would like to say i am not writing all the things 1 by one its just a journal which covers all the things i made and the huddles i faced while making the 3d model.
+Halfway through I used the magic wand (which is the free AI model). I wanted to give the home really cool outdoor camp vibes (credit- inspired by new survive ysws tbh), so at the end we got (**Style B: Expedition Outpost**) and midway we got a new mission to turn THIS INTO EXPEDITION OUTPOST.
+
+Basically, it's a 3-story building that you can live in and camp out on top of. It's packed with a rooftop camping tent, wooden shipping boxes, campfire logs, safety railings, and a Walking Window, the nose of the outpost.
+
+Across its three floors, here is what's on the outpost:
+
+- **Ground Floor:**
+  - Front gate doors
+  - The windows
+  - Wooden boxes with hollow groove lines (`Alt + E`) and the chimney
+  - A stack of firewood outside the home for when it's too cold
+  - The dustbin
+- **Second Floor:**
+  - Divider belts between each section of the home
+  - 7-sided hollow sleek windows
+  - 2 balconies on the left side with their safety grills
+  - **Walking Window** (placed right below at the center; arched window with cross bars, a lap/little bib below in the middle, and little legs)
+  - Clocks / compasses
+  - That other knife-cut thingy (`idk what it is? tho`)
+- **Third Floor & Roof:**
+  - The eyes of the expedition outpost (with the Walking Window placed at right center, which gives it hella vibes)
+  - Rooftop multi window room
+  - Rooftop camping tent with triangular tent gates/doors
+
+Although i would try to cover everything as i can i would like to say i am not writing all the things 1 by one its just a journal which covers all the things i made and the hurdles i faced while making the 3d model.
 
 Here is the build log broken down into 7 sessions:
 
 | Session | Lapse / Lookout Title | Date | Time | What Was Made |
 | :---: | :--- | :---: | :---: | :--- |
-| **1** | `orange home` | Nov 17 | **1h 04m** | • Ground base plane<br>• `I` (Inset) + 3-floor extrusions<br>• Top-floor windowed room (`P` separate + loop cuts: 1 side tested, then 3 at once)<br>• Bottom shop entrance framing<br>• Sliced front gate wall & carved matching window cubes |
-| **2** | `worked for the door` | Nov 17 | **48m** | • Under-window sill & trim blocks (`Add Cube`)<br>• Layered front entrance gates using the window-framing technique |
-| **3** | `almost complete` | Nov 17 | **1h 31m** | • Front doors & remaining front facade trims<br>• Floor divider belts (`Shift + D` + `Bridge Edge Loops`, cloned up between floors)<br>• 7-sided cylinder windows (`P` + extrude/intrude + duplicated)<br>• 2 left-side balconies (loop cut + extrude)<br>• Side-wall windows with center bars (copied one-by-one for exact size) |
-| **4** | `almost all assets` | Nov 17 | **1h 30m** | • **Walking Window** (2 blocks + `Spin` + `Bridge Edge Loops` arch, back plane, `Add Cube` cross, extruded lap & little legs)<br>• **Dustbin** (feet + 45° tilted top + extruded front & slanted detail)<br>• **Chimney** (cylinder cutout + top grill)<br>• **Clocks / Compasses**, Knife-cut mystery side prop & **Eyes of the outpost** |
-| **5** | `other assets` | Nov 18 | **30m** | • Wooden shipping boxes with hollow slats (`Alt + E`)<br>• Stacked campfire firewood logs<br>• Early explorer backpack draft *(saved for v2)* |
-| **6** | `more refining needed` | Nov 19 | **1h 54m** | • Attached all props onto the outpost (eyes, Walking Window + lap/bib, compasses, mystery prop, dustbins, chimneys, crates, logs)<br>• **Rooftop Tent** (split halves with `P`, bent cleanly via `Simple Deform` Bend & joined)<br>• Triangular tent flaps/doors cut with Knife tool (`K`), duplicated & placed on roof |
+| **1** | `orange home` | Nov 17 | **1h 04m** | • Ground base plane<br>• `I` (Inset) + 3-floor extrusions<br>• Top-floor windowed room (`P` separate + loop cuts: 1 side tested, then 3 at once)<br>• Normal window structure & bottom entrance framing<br>• Sliced front gate wall & carved matching window cubes |
+| **2** | `worked for the door` | Nov 17 | **48m** | • The thingy below the windows (`Add Cube`)<br>• Front home gates (made with the same technique as the side windows, with more things layered into it) |
+| **3** | `almost complete` | Nov 17 | **1h 31m** | • Front doors & the other few things in the front<br>• Floor divider belts (`Shift + D` + `Bridge Edge Loops`, cloned up between floors)<br>• 7-sided cylinder windows (`P` + extrude/intrude + duplicated)<br>• 2 left-side balconies (loop cut + extrude)<br>• Side-wall windows with center bars (copied one-by-one for exact size) |
+| **4** | `almost all assets` | Nov 17 | **1h 30m** | • **Walking Window** (2 blocks + `Spin` + `Bridge Edge Loops` arch, back plane, `Add Cube` cross, extruded lap & little legs)<br>• **Dustbin** (feet + 45° tilted top + extruded front & small thingy at slanted side)<br>• **Chimney** (cylinder cutout + top grill)<br>• **Clocks / Compasses**, Knife-cut thingy (`idk what it is? tho`) & **Eyes of the outpost** |
+| **5** | `other assets` | Nov 18 | **30m** | • Wooden boxes with hollow groove lines (`Alt + E`)<br>• Stacked campfire firewood logs<br>• Early explorer backpack draft *(saved for v2)* |
+| **6** | `more refining needed` | Nov 19 | **1h 54m** | • Attached all props onto the outpost (eyes, Walking Window + lil bib, clocks, the other something idk, dustbins, chimneys, boxes, firewood logs)<br>• **Rooftop Tent** (separated each side with `P`, bent cleanly via `Simple Deform` Bend & joined)<br>• Triangular tent gates/doors cut with Knife tool (`K`), duplicated & placed on roof |
 | **7** | `see` | Nov 20 | **24m** | • Modeled and aligned safety grills onto the balconies<br>• Completed final 185+ part outpost assembly |
 | **Total** | | | **7h 47m 56s** | **Over 185 individual mesh pieces/sub-parts that make up the 1 outpost model** |
 
@@ -69,13 +98,13 @@ Here is the original Pinterest image that lead the whole journey:
 ( which helps in seperating the faces / objects) firstly i tried with the one size of the four And i thought:*will it work as per I thought?* And it worked!
 ![Top-floor window separation experiment on one side](./journal_media/phase1_top_window_test.png)
 
-5. Then I replicated teh same thing with selecting all the other faces but now all 3 of them at once,first separating and hen using the same steps of loop cutting, insetting . and extruding the face , trying to replicate the same sizes as earlier experiment. At last, I made the normal window structure and framed the bottom shop entrance. 
+5. Then I replicated teh same thing with selecting all the other faces but now all 3 of them at once,first separating and hen using the same steps of loop cutting, insetting . and extruding the face , trying to replicate the same sizes as earlier experiment. At last, I made the normal window structure and framed the bottom entrance. 
 ![Separating the remaining three top-floor window faces at once](./journal_media/phase1_top_windows_separated.png)
 
 6. At last i used the loop cut or slicing tool may be to seperate the portion of the front gate side in half and then i used the add cube tool to match the same size as the window and then i took that cubes of windows and carved out it as similar to a window as it should be 
 ![window additon](./journal_media/image_5.png)
 
-![Cutting and framing the bottom shop structure](./journal_media/image_6.png)
+![Cutting and framing the bottom entrance structure](./journal_media/image_6.png)
 
 
 
